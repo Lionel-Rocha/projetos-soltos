@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "build": "waffle",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "ethereum-waffle": "^4.0.10",
+    "chai": "^4.3.6",
+    "ethers": "^5.7.2",
+    "mocha": "^10.2.0",
+    "babel-register": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "ethers": "^5.7.2"
+  }
+}
