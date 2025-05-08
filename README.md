@@ -1,6 +1,3 @@
-```plaintext
-Fabrício Resende Gonçalves - Prodemge
-Carlos Leonardo dos Santos Mendes - Prodemge
 * DATAPREV
   * Claudemir Custódio Brum
   * Julio Cesar Faria Cornacchia
@@ -11,4 +8,3 @@ Carlos Leonardo dos Santos Mendes - Prodemge
 * PRODEMGE
   * Fabrício Resende Gonçalves
   * Carlos Leonardo dos Santos Mendes
-```
