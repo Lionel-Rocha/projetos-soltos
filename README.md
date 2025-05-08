@@ -1,4 +1,3 @@
-```plaintext
 * PRODEMGE
   * Fabrício Resende Gonçalves
   * Carlos Leonardo dos Santos Mendes
@@ -9,4 +8,3 @@
 * Fundação CPQD
   * Elder Bruno Evaristo Correa
   * Jeffson Celeiro Sousa
-```
