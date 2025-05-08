@@ -1,3 +1,7 @@
+```plaintext
+* PRODEMGE
+  * Fabrício Resende Gonçalves
+  * Carlos Leonardo dos Santos Mendes
 * DATAPREV
   * Claudemir Custódio Brum
   * Julio Cesar Faria Cornacchia
@@ -5,6 +9,4 @@
 * Fundação CPQD
   * Elder Bruno Evaristo Correa
   * Jeffson Celeiro Sousa
-* PRODEMGE
-  * Fabrício Resende Gonçalves
-  * Carlos Leonardo dos Santos Mendes
+```
