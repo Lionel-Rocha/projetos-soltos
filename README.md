@@ -1,4 +1,5 @@
 ```plaintext
-Elder Bruno Evaristo Correa - Fundação CPQD
-Jeffson Celeiro Sousa - Fundação CPQD
+Claudemir Custódio Brum - DATAPREV
+Julio Cesar Faria Cornacchia - DATAPREV
+Danilo Gonçalves Lyra - DATAPREV
 ```
